@@ -3,7 +3,7 @@ public class sample4{
 
 	public static void main(String[] args) {
 		System.out.println("Hello mga tanga");
-		String ss = "tanga tanga";
+		String ss = "tanga tangaaaaaaaaaaaa";
 		System.out.println(ss);
 
 		if (ss == "asd") {
