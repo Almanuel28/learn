@@ -6,7 +6,7 @@ public class test{
 		String ss = "tanga tanga";
 		System.out.println(ss);
 
-		if (ss == "asd") {
+		if (ss == "ddd") {
 			System.out.println("uto uto mo");
 			
 		}
