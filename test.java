@@ -7,7 +7,7 @@ public class test{
 		System.out.println(ss);
 
 		if (ss == "ddd") {
-			System.out.println("uto uto mo");
+			System.out.println("uto uto mo  hahahahhahahaahha");
 			
 		}
 		else{
