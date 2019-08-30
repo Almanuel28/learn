@@ -2,7 +2,7 @@
 public class sample4{
 
 	public static void main(String[] args) {
-		System.out.println("Hello mga tanga");
+		System.out.println("Hello mga bobo");
 		String ss = "tanga tangaaaaaaaaaaaa";
 		System.out.println(ss);
 
